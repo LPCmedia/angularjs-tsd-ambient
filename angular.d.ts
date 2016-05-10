@@ -1722,7 +1722,7 @@ declare module angular {
          * this defaults to 'E'.
          */
         restrict?: string;
-        $canActivate?: () => boolean;
+        $canActivate?: (args...:any[]) => boolean;
         $routeConfig?: RouteDefinition[];
     }
 

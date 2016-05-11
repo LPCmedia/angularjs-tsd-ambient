@@ -1,11 +1,11 @@
 {
   "name": "retyped-angularjs-tsd-ambient-1.5",
   "description": "TypeScript typings for angularjs",
-  "version": "1.5.5",
+  "version": "2.0.0",
   "licence": "MIT",
   "repository": "https://github.com/LPCmedia/angularjs-tsd-ambient.git",
   "typescript": {
-    "definition": "angular.d.ts"
+    "definition": ["angular.d.ts","angular-component-router.d.ts"]
   },
   "keywords": [
     "retyped",

@@ -1,7 +1,7 @@
 {
   "name": "retyped-angularjs-tsd-ambient-1.5",
   "description": "TypeScript typings for angularjs",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "licence": "MIT",
   "repository": "https://github.com/LPCmedia/angularjs-tsd-ambient.git",
   "typescript": {
